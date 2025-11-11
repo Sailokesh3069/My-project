@@ -1,3 +1,18 @@
+# 📝 Word Counter — Count Words Instantly in Python
+
+A simple and interactive **command-line word counter** built with Python.  
+This tool lets you quickly find out how many words are in a sentence or paragraph — perfect for text analysis, writing tools, or learning Python basics.
+
+---
+
+## 🚀 Features
+- ⚡ Instantly counts words in any input text  
+- 🖥️ Simple command-line interface  
+- 🧠 Beginner-friendly Python example  
+- 🧹 Handles empty or whitespace-only input gracefully  
+
+---
+
 # My-project
 def count_words(text):
     # Split the text into words based on whitespace
